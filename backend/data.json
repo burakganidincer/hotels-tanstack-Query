@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Azure Dream Palace",
+    "location": "İstanbul, Türkiye",
+    "address": "Bosphorus Caddesi 123",
+    "description": "Bosphorus manzaralı lüks bir otel.",
+    "amenities": [
+      "Ücretsiz WiFi",
+      "Yüzme Havuzu",
+      "Spa",
+      "Spor Salonu",
+      "Restoran"
+    ],
+    "rating": 4.8,
+    "price_per_night": 150,
+    "availability": true,
+    "image_url": "/pic1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Serenity Mountain Lodge",
+    "location": "Rize, Türkiye",
+    "address": "Highland Yolu 789",
+    "description": "Doğa severler için mükemmel, dağlarda huzurlu bir tatil yeri.",
+    "amenities": [
+      "Ücretsiz WiFi",
+      "Yürüyüş Parkurları",
+      "Şömine",
+      "Evcil Hayvan Dostu"
+    ],
+    "rating": 4.5,
+    "price_per_night": 120,
+    "availability": true,
+    "image_url": "/pic2.webp"
+  },
+  {
+    "id": 3,
+    "name": "Urban Oasis Apartments",
+    "location": "Ankara, Türkiye",
+    "address": "Capital Bulvarı 456",
+    "description": "Şehir merkezinde modern bir daire.",
+    "amenities": [
+      "Ücretsiz WiFi",
+      "Mutfak",
+      "Klima",
+      "Çamaşır Makinesi/Kurutucu"
+    ],
+    "rating": 4.2,
+    "price_per_night": 90,
+    "availability": false,
+    "image_url": "/pic3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Villa Solara",
+    "location": "Antalya, Türkiye",
+    "address": "Plaj Yolu 321",
+    "description": "Özel plaj erişimi ve muhteşem deniz manzaralı güzel bir villa.",
+    "amenities": [
+      "Ücretsiz WiFi",
+      "Özel Plaj",
+      "Yüzme Havuzu",
+      "Barbekü Alanı"
+    ],
+    "rating": 4.9,
+    "price_per_night": 200,
+    "availability": true,
+    "image_url": "/pic4.jpg"
+  },
+  {
+    "name": "Bodrum Bliss Resort",
+    "location": "Muğla/Bodrum",
+    "address": "Torba, Kaynar Mevkii",
+    "description": "Duja'da lüx tatil köyü hayatı...",
+    "amenities": ["Özel plaj", "Her Şey Dahil"],
+    "rating": "4.9",
+    "price_per_night": "749.9",
+    "availability": true,
+    "id": "162065ba-cbd4-4132-9137-78e3dd10c109",
+    "image_url": "https://picsum.photos/457/457"
+  },
+  {
+    "name": "Riviera Royale",
+    "location": "Antalya",
+    "address": "Muratpaşa/Antalya",
+    "description": "Rixos Downtown Antalya'da keyifli bir tatil yapın!",
+    "amenities": ["Havuz", "Özel Plaj", "Her Şey Dahil"],
+    "rating": "4.8",
+    "price_per_night": "550",
+    "availability": true,
+    "id": "a9127b23-ef6b-4d86-9d6c-3cb41ea025d6",
+    "image_url": "https://picsum.photos/481/481"
+  },
+  {
+    "name": "Seaside Tranquility",
+    "location": "Menlo Park",
+    "address": "Bodrum/İçmeler",
+    "description": "Her şey dahil",
+    "amenities": ["Havuz", "Özel Plaj"],
+    "rating": "3.8",
+    "price_per_night": "200",
+    "availability": true,
+    "id": "488f4c87-be8d-4667-abc6-05a6e958b344",
+    "image_url": "https://picsum.photos/472/472"
+  }
+]
